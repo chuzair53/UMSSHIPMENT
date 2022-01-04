@@ -1,0 +1,4 @@
+shipper,order_number,customer_name,first_line_add,town_city,postcode,phone,email,product_name,notes,qty,pieces,weight,type,service,upload_date,payment
+Sleep Village Ltd,TEL,THE CUSTOMER,4 Connaught Road,SLOUGH,SL1 1SD,7867864466,",","5FT MINK PLUSH SIDELIFT + 48"" KENDAL + FOOT + 5FT KASH 1""MEM1""BLUE BUTTERFLY",,,5,60,KG,ECON,23102020,PAID
+Sleep Village Ltd,TEL,THE CUSTOMER,54 Kingfisher Drive,BANBURY,OX16 9YE,7872899257,",",5FT SILK 2000 POCKET BUTTERFLY,,,1,25,KG,ECON,23102020,PAID
+Sleep Village Ltd,TEL,THE CUSTOMER,16 Jehlum Close,MANCHESTER,M8 0GP,+44 7875 365897,",","3X 4FT6 2000 POCKET KASHMIRA 1""MEM1""BLUE BUTTERFLY",,,3,60,KG,ECON,23102020,PAID
